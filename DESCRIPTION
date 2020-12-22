@@ -1,0 +1,16 @@
+Package: phastCons30way.UCSC.hg38
+Type: Package
+Title: phastCons30way.UCSC.hg38 AnnotationHub Resource Metadata
+Version: 3.13.0
+Encoding: UTF-8
+Author: Robert Castelo [aut, cre]
+Maintainer: Robert Castelo <robert.castelo@upf.edu>
+Description: Store phastCons30way.UCSC.hg38 AnnotationHub Resource Metadata.
+VignetteBuilder: knitr
+License: Artistic-2.0
+Depends: GenomicScores, AnnotationHub
+Suggests: knitr, rmarkdown
+biocViews: AnnotationHub, Genetics, GenomicScores, Homo_sapiens
+organism: Homo sapiens
+provider: UCSC
+provider_version: 03Nov2017
